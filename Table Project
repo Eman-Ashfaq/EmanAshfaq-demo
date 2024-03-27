@@ -1,2 +1,228 @@
 Table Project using HTML and CSS <br>
 Author-Eman
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=
+    , initial-scale=1.0"> 
+    <title>Table</title>
+   <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <table align="center"  cellpadding="10" cellspacing="0" >
+<caption><u><b><i><h1>Periodictable</h1></i></b></u></caption>
+<tr align="center" >
+<td  class="color1"  >  H <br> hydrogen</td>
+<td class="noborder" colspan="16"></td>
+<!--<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>
+<td></td>-->
+<td class="color1">He  <br> helium
+</td>
+
+</tr>
+<tr align="center"><td class="pink">Li <br> lithium</td>
+    <td class="pinkish" >Be  <br>berylium</td>
+ <td class="noborder" colspan="10"></td>
+      <!--- <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>-->
+    <td class="purp">B <br>boron</td>
+    <td class="orange">C <br> carbon</td>
+    <td  class="orange">N <br> nitrogen</td>
+    <td  class="orange">O <br>oxygen</td>
+    <td class="blue">F <br>fluorine</td>
+    <td class="color">Ne <br>neon</td></tr>
+
+ <tr align="center">
+
+    <td class="pink">Na <br>sodium</td>
+    <td  class="pinkish">Mg <br>magnisium</td>
+   <td class="noborder" colspan="10"></td>
+    <!--- <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>
+    <td></td>-->
+    <td class="yellow">Al <br>aluminium</td>
+    <td  class="purp">Si <br>silicon</td>
+    <td class="orange">P <br>posphorous</td>
+    <td class="orange">S <br>sulfur</td>
+    <td class="blue">Cl <br>chlorine</td>
+    <td class="color">Ar <br>argon</td>
+
+ </tr>
+
+ <tr align="center">
+
+    <td class="pink">K <br>Potassium</td>
+    <td  class="pinkish">Ca <br>calcium</td>
+    <td class="lightblue" >Sc <br> scandium </td>
+    <td class="lightblue">Ti <br>titanium</td>
+    <td class="lightblue">V <br>vanadium</td>
+    <td class="lightblue">Cr <br>chromium</td>
+    <td class="lightblue">Mn <br> Manganese</td>
+    <td class="lightblue">Fe <br>iron</td>
+    <td class="lightblue">Co <br>cobalt</td>
+    <td class="lightblue">Ni <br>nickel</td>
+    <td class="lightblue">Cu <br>copper</td>
+    <td class="lightblue">Zn <br>zinc</td>
+    <td class="yellow">Ga <br>Gallium</td>
+    <td  class="purp">Ge <br>Germanium</td>
+    <td  class="purp">As <br>Arsenic</td>
+    <td class="orange" >Se <br>Selenium</td>
+    <td class="blue">Br <br>Bromine</td>
+    <td class="color">Kr <br>Krypton</td>
+
+ </tr>
+
+ <tr align="center">
+
+    <td class="pink">Rb <br>Rubidium</td>
+    <td  class="pinkish">Sr <br>Strontium</td>
+    <td class="lightblue">Y <br>Yttrium</td>
+    <td class="lightblue">Zr <br>Zirconium</td>
+    <td class="lightblue">Nb <br>Niobium</td>
+    <td class="lightblue">Mo <br>Molybdenum</td>
+    <td class="lightblue">Tc <br>Technetium</td>
+    <td class="lightblue">Ru <br>Ruthenium</td>
+    <td class="lightblue">Rh <br>Rhodium</td>
+    <td class="lightblue">Pd <br>Palladium</td>
+    <td class="lightblue">Ag <br>Silver</td>
+    <td class="lightblue">Cd <br>Cadmium</td>
+    <td class="yellow">In <br>Indium</td>
+    <td class="yellow">Sn <br>Tin</td>
+    <td  class="purp">Sb <br>Antimony</td>
+    <td  class="purp">Te <br>Tellurium</td>
+    <td class="blue">I <br>Iodine</td>
+    <td class="color">Xe <br>Xenon</td>
+
+ </tr>
+
+ <tr align="center">
+
+    <td class="pink">Cs <br>Cesium</td>
+    <td  class="pinkish">Ba <br>Barium</td>
+    <td rowspan="2" class="noborder" ></td>
+    <td class="lightblue">Hf <br>Hafnium</td>
+    <td class="lightblue">Ta <br>Tantalum</td>
+    <td class="lightblue">W <br>Tungsten</td>
+    <td class="lightblue">Re <br>Rhenium</td>
+    <td class="lightblue">Os <br>Osmium</td>
+    <td class="lightblue">Ir <br>Iridium</td>
+    <td class="lightblue">Pt <br>Platinum</td>
+    <td class="lightblue">Au <br>Gold</td>
+    <td class="lightblue">Hg <br>Mercury</td>
+    <td class="yellow">Ti <br>Thallium</td>
+    <td class="yellow">Pb <br>Lead</td>
+    <td class="yellow">Bi <br>Bismuth</td>
+    <td  class="purp">Po <br>Polonium</td>
+    <td class="blue">At <br>Astatine</td>
+    <td class="color">Rn <br>Radon</td>
+
+ </tr>
+
+ <tr align="center">
+
+    <td class="pink">Fr <br>Francium</td>
+    <td  class="pinkish">Ra <br>Radium</td>
+    <td class="lightblue">Rf <br>Rutherfordium</td>
+    <td class="lightblue">Db <br>Dubnium</td>
+    <td class="lightblue">Sg <br>Seaborgium</td>
+    <td class="lightblue">Bh <br>Bohrium</td>
+    <td class="lightblue">Hs <br>Hassium</td>
+    <td class="lightblue" >Mt <br>Meitnerium</td>
+    <td class="lightblue">Ds <br>Darmstadtium</td>
+    <td class="lightblue">Rg <br>Roentgenium</td>
+    <td class="lightblue">Cn <br>Copernicium</td>
+    <td class="yellow">Nh <br>Nihonium</td>
+    <td class="yellow">Fl <br>Flerovium</td>
+    <td class="yellow">Mc <br>Moscovium</td>
+    <td class="yellow">Lv <br>Livermorium</td>
+    <td class="blue">Ts <br>Tennessine</td>
+    <td class="color">Og <br>Oganesson</td>
+
+ </tr>
+
+
+    </table>
+    <table align="center"   cellpadding="10" cellspacing="0" >
+    <div class="border margin" >
+
+
+      <tr align="center">
+
+         <td class="noborder" colspan="2"></td>
+         
+         <td class="purple"> La <br> lanthanum</td>
+         <td class="purple">Ce <br>cerium </td>
+         <td class="purple">Pr <br> praseodymium</td>
+         <td class="purple">Nd <br> neodymium</td>
+         <td class="purple">Pm <br>promethium</td>
+         <td class="purple">Sm <br>Samarium </td>
+         <td class="purple">Eu <br>Europium</td>
+         <td class="purple">Gd <br> Gadolinium</td>
+         <td class="purple">Tb <br>Terbium </td>
+         <td class="purple">Dy <br>Dysprosium</td>
+         <td class="purple">Ho <br>Holmium</td>
+         <td class="purple">Er <br>Erbium</td>
+         <td class="purple">Tm <br>Thulium</td>
+         <td class="purple">Yb <br>Ytterbium</td>
+         <td class="purple">Lu <br>Lutetium</td>
+         
+     
+      </tr> <tr align="center">
+       
+         <td class="noborder"colspan="2"></td>
+         <td class="rblue">Ac <br>Actinium</td>
+         <td class="rblue">Th <br>Thorium</td>
+         <td class="rblue">Pa <br> Protactinium</td>
+         <td class="rblue">U  <br> Uranium</td>
+         <td class="rblue">Np <br>Neptunium</td>
+         <td class="rblue">Pu <br>Plutonium</td>
+         <td class="rblue">Am <br>Americium</td>
+         <td class="rblue">Cm <br>Curium</td>
+         <td class="rblue">Bk <br>Berkelium</td>
+         <td class="rblue">Cf <br>Californium</td>
+         <td class="rblue">Es <br>Einsteinium</td>
+         <td class="rblue">Fm <br> Fermium</td>
+         <td class="rblue">Md <br>Mendelevium</td>
+         <td class="rblue">No <br>Nobelium</td>
+         <td class="rblue">Lr <br>Lawrencium</td>
+      
+      
+         
+     
+      </tr>
+     
+     
+    </div>
+   </table>
+ 
+
+  
+</body>
+</html>
