@@ -1,0 +1,77 @@
+Design Table using CSS
+Author-Eman
+.border
+{
+text-decoration: none;
+
+   
+}
+.color
+{
+background-color: rgb(248, 234, 207);
+}
+
+
+ 
+.blue
+{
+    background-color: rgb(181, 181, 245);
+}
+
+.pink
+{
+    background-color: rgb(241, 106, 129);
+}
+
+
+.pinkish
+{
+    background-color: rgb(243, 219, 223);
+}
+
+.lightblue
+{
+    background-color: rgb(140, 211, 240);
+}
+
+.purple
+{
+    background-color: rgb(240, 116, 240);
+}
+
+.rblue
+{
+background-color: rgb(24, 243, 243);
+}
+
+.orange
+{
+    background-color: rgb(252, 215, 142);
+}
+.purp
+{
+    background-color: rgb(179, 150, 179);
+}
+.yellow
+{
+    background-color: rgb(182, 182, 36);
+}
+.color1
+{
+    background-color: rgb(179, 117, 117);
+}
+.noborder
+{
+    border: none ;
+}
+td{
+    border: 1px solid rgb(17, 17, 17);
+}
+.margin
+{
+    margin: 40px;
+}
+.cell
+{
+    block-size: 0cqi;
+}
